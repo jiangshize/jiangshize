@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jiangshize,i'm aic design engineer.
+- 👋 Hi, I’m @jiangshize,i'm ic design engineer.
 - 👀 I’m interested in ic/fpga design and verification.
 - 🌱 I’m currently learning UVM and script language.
 - 💞️ I’m looking to collaborate on ...
